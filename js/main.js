@@ -1,9 +1,41 @@
+ var d = new Date();
+ alert (d.getDate()+ "/" + d.getMonth 1); 
 
+
+
+/*
+var count;
+for(count=0; count <= 5; count++){
+    alert (count);
+}
+*/
+
+/*
+var count = 0;
+while (count <= 5){
+    console.log(count);
+    alert(count);
+    count++;
+};
+*/
+
+
+
+
+/*
+var idade = prompt("Qual sua idade");
+if (idade >= 18) {
+     alert("maior de idade");
+ }else {
+     alert("menor de idade");
+ }
+*/
+
+/*
 var fruta = [{nome: "maça", cor: "vermelha"} , {nome:"uva", cor: "roxa"}];
 console.log(fruta);
 alert(fruta[1].nome);
-
-
+*/
 
 
 /*
